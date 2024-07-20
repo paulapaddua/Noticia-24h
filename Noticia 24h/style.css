@@ -115,7 +115,7 @@ main {
   color: #fff;
   align-items: center;
   justify-content: center;
-  padding: 200px 100px;
+  padding: 180px 100px;
   flex-direction: column;
 }
 
@@ -130,7 +130,7 @@ main {
 
 .autor{
   display: flex;
-  margin-top: 50px;
+  margin-top: 90px;
   gap: 20px;
   align-items: center;
   font-weight: normal;
