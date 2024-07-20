@@ -2,16 +2,7 @@
   margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
-}
-@font-face {
-  font-family: "PlusJakartaSans_regular";
-  src: url(fonts/PlusJakartaSans-Regular.ttf);
-  font-display: swap;
-}
-@font-face {
-  font-family: "PlusJakartaSans_bold";
-  src: url(fonts/PlusJakartaSans-Bold.ttf);
-  font-display: swap;
+  font-family: "Plus Jakarta Sans", sans-serif;
 }
 
 .inicio {
